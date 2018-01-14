@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Soloing the Oregon Stampede Route
 ---
 
 An account of my day-long ride on the Oregon Stampede Route. 
