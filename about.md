@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: About Adventuring.Bike
 permalink: /about/
 ---
 
-Some information about you!
+Riding bikes, taking photos, seeing the great outdoors.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I currently work at [https://ridewithgps.com](https://ridewithgps.com) doing all sorts of stuff. This blog represents my own personal experiences and views from the perspective of a rider but I will often use the blog to showcase features at ridewithgps.com.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ride@adventuring.bike](mailto:ride@adventuring.bike)
