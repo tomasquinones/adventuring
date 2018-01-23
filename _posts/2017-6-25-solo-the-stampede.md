@@ -4,7 +4,7 @@ title: Soloing the Oregon Stampede Route
 published: true
 ---
 
-It was barely a plan and it couldn't have been nicer outside. Well, nice for me and utter boiling for others. It was due to push over 100 degrees in Portland on this day but I don't think it got over 99 over my entire ride. The sun was relentless, but I wouldn't have it any other way. 
+It was barely a plan and it couldn't have been nicer outside. Well, nice for me and utter-boiling for others. It was due to push over 100 degrees in Portland on this day but I don't think it got over 99 over my entire ride. The sun was relentless, but I wouldn't have it any other way. 
 
 The [Oregon Stampede](https://ridewithgps.com/ambassador_routes/24-the-oregon-stampede-ob-edition) route has been around for a number of years, started by Velodirt (RIP) back in 2008. I've put off doing the route for one reason or another: I'm not fit enough, no money, to time, wrong bike for this sort of ride. 
 
