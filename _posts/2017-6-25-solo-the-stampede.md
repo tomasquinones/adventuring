@@ -8,7 +8,11 @@ It was barely a plan and it couldn't have been nicer outside. Well, nice for me 
 
 The [Oregon Stampede](https://ridewithgps.com/ambassador_routes/24-the-oregon-stampede-ob-edition) route has been around for a number of years, started by Velodirt (RIP) back in 2008. I've put off doing the route for one reason or another: I'm not fit enough, no money, to time, wrong bike for this sort of ride. 
 
-Well, the stars aligned, I had access to a vehicle, and ambition to finally tackle this beast on my Soma Grand Randonneur. 
+<div class="flickrwrap">
+<a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/tomascosauce/35643506736/in/album-72157685793733015" title="20170625-23"><img src="https://farm5.staticflickr.com/4108/35643506736_0346c67134_h.jpg" width="1600" height="1067" alt="20170625-23"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+Well, the stars aligned, I had access to a vehicle, a capable bicycle, and ambition to finally tackle this beast on my own terms. No pressure from other riders to catch up or risk being left behind. I would always be the leader and sweep of my own rides.
 
 <iframe src='https://rwgps-embeds.com/embeds?type=trip&id=15588263&sampleGraph=true' style='width: 1px; min-width: 100%; height: 700px; border: none;' scrolling='no'></iframe>
 
