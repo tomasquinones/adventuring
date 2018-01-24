@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Where am I?
+permalink: /whereami/
 ---
+
 <div id="widget"></div>
 
 <!--Google Maps v3 API -->
