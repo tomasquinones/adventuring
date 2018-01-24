@@ -15,12 +15,12 @@ permalink: /whereami/
 <script type="text/javascript">
 	$(function() {
 		$('#widget').spotLiveWidget({ 
-			feedId: '0BbHkTrRsS3Dj46lIpeNSm0yriMQguWz0'
-			mapType: 'HYBRID'
+			feedId: '0BbHkTrRsS3Dj46lIpeNSm0yriMQguWz0',
+			mapType: 'HYBRID',
 			width: 800,
 			height: 800,
-      showLegend: true,
-      legendHeight: 70
+      			showLegend: true,
+      			legendHeight: 70
 		});
 	});
 </script>
