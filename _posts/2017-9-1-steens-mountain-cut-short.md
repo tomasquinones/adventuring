@@ -1,9 +1,7 @@
 ---
   layout: post
-  title: The Steens Mountain Tour that Wasn't
-
+  title: The Steens Mountain Tour - Cut Short
 ---
-**The Steens Mountain Tour that wasn't**
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/tomascosauce/38924730765/in/album-72157691781641794/" title="steens-2017-78"><img src="https://farm5.staticflickr.com/4615/38924730765_c06b9ae1c2_h.jpg" width="1600" height="1200" alt="steens-2017-78"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
