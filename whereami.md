@@ -13,7 +13,7 @@ title: Where am I?
 <script type="text/javascript">
 	$(function() {
 		$('#widget').spotLiveWidget({ 
-			feedId: '0fxVSxfrIp9Xc2UlkGcuWugX2rhkNp84q'
+			feedId: '0BbHkTrRsS3Dj46lIpeNSm0yriMQguWz0'
 			mapType: 'TERRAIN'
 			width: 800,
 			height: 800,
