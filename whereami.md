@@ -16,7 +16,7 @@ permalink: /whereami/
 	$(function() {
 		$('#widget').spotLiveWidget({ 
 			feedId: '0BbHkTrRsS3Dj46lIpeNSm0yriMQguWz0'
-			mapType: 'TERRAIN'
+			mapType: 'HYBRID'
 			width: 800,
 			height: 800,
       showLegend: true,
