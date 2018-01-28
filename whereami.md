@@ -16,11 +16,19 @@ permalink: /whereami/
 	$(function() {
 		$('#widget').spotLiveWidget({ 
 			feedId: '0BbHkTrRsS3Dj46lIpeNSm0yriMQguWz0',
-			mapType: 'HYBRID',
+			mapType: 'ROADMAP',
 			width: 800,
-			height: 800,
+			height: 500,
       			showLegend: true,
       			legendHeight: 70
+			autoRefresh: 10
+			polyline: {
+				strokeWeight: 3, // [int]
+				strokeColor: {
+				'0-2825692' : '#3498DB'  // [Device-ESN : Hex-Color code]
+					}
 		});
 	});
 </script>
+
+_This page auto-refreshes every 10 minutes or so._
