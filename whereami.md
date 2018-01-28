@@ -21,13 +21,8 @@ permalink: /whereami/
 			height: 500,
       			showLegend: true,
       			legendHeight: 70,
-			autoRefresh: 10,
-			polyline: {
-				strokeWeight: 3, // [int]
-				strokeColor: {
-				'0-2825692' : '#3498DB'  // [Device-ESN : Hex-Color code]
-					}
-		})
+			autoRefresh: 10
+		});
 	});
 </script>
 
