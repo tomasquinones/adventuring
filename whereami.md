@@ -20,8 +20,8 @@ permalink: /whereami/
 			width: 800,
 			height: 500,
       			showLegend: true,
-      			legendHeight: 70
-			autoRefresh: 10
+      			legendHeight: 70,
+			autoRefresh: 10,
 			polyline: {
 				strokeWeight: 3, // [int]
 				strokeColor: {
