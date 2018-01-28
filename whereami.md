@@ -26,7 +26,7 @@ permalink: /whereami/
 				strokeWeight: 3, // [int]
 				strokeColor: {
 				'0-2825692' : '#3498DB'  // [Device-ESN : Hex-Color code]
-					};
+					}
 		})
 	});
 </script>
