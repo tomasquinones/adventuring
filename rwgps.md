@@ -8,7 +8,7 @@ permalink: /rwgps/
   
   }
   rwgps-number {
-    font-size: 3em;
+    font-size: 3em !important;
   }
 </style>
 <a class="rwgps-widget" href="https://ridewithgps.com/users/45898" data-rwgps-user-id="45898" data-rwgps-activities-count="7" data-rwgps-include="week month year">Activities for Tomas Quinones</a>
