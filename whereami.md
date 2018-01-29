@@ -19,8 +19,7 @@ permalink: /whereami/
 			mapType: 'ROADMAP',
 			width: 800,
 			height: 500,
-      			showLegend: true,
-      			legendHeight: 70,
+      			showLegend: false,
 			autoRefresh: 10
 		});
 	});
