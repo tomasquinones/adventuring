@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Where am I?
+title: My Ride Stats
 permalink: /rwgps/
 ---
 
-<a class="rwgps-widget" href="https://ridewithgps.com/users/45898" data-rwgps-user-id="45898" data-rwgps-activities-count="1" data-rwgps-include="week month year">Activities for Tomas Quinones</a>
+<a class="rwgps-widget" href="https://ridewithgps.com/users/45898" data-rwgps-user-id="45898" data-rwgps-activities-count="7" data-rwgps-include="week month year">Activities for Tomas Quinones</a>
 <script>
 (function(d,s) { 
   if(!d.getElementById('rwgps-sdk')) {
