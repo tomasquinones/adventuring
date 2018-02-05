@@ -5,6 +5,8 @@ title: Alder Flat Sub-24 Overnighter
 
 It had been a few years since my last ride up the Clackamas River and a few months since my failed bike tour of the Steens. It was time to get outside, on the bike, and sleeping in the forest. 
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/tomascosauce/albums/72157692306345074" title="Alder Flat Feb 2018"><img src="https://farm5.staticflickr.com/4668/28318449159_1fca170991_h.jpg" width="100%" height="" alt="Alder Flat Feb 2018"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 The weather decided it was going to be unseasonably warm but overcast the entire time. We had some fog here and there but once in a while the blue sky peaked out or the sun was able to break through to grace our faces. 
 
 Relaxed morning start from Jazzy Bagels in Gresham. I highly recommend the chocolate chip bagel with sun dried tomato spread. 
