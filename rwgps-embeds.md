@@ -20,5 +20,5 @@ gmapsBikeOverlay
 
 **Tourism Embed**
 <div class="embed90" style="text-align: center; margin-top: 2em; clear: both;">
-  <iframe src='https://rwgps-embeds.com/embeds?type=region&id=15&poiBar=t&boundingBox=-122.68784523010255,45.511640093571096,-122.5847625732422,45.55102264680802' style='width: 1px; min-width: 100%; height: 700px; border: none;' scrolling='no'></iframe>
+  <iframe src='https://rwgps-embeds.com/embeds?type=region&id=15&poiBar=t&boundingBox=-122.68784523010255,45.511640093571096,-122.5847625732422,45.55102264680802&overlay=satellite' style='width: 1px; min-width: 100%; height: 700px; border: none;' scrolling='no'></iframe>
 </div>
