@@ -18,7 +18,7 @@ permalink: /stats/
 </script>
 
 
-<a class="rwgps-widget" href="https://ridewithgps.com/users/45898" data-rwgps-width="500" data-rwgps-user-id="45898" data-rwgps-activities-count="7">Activities for Tomas Quinones</a>
+<a class="rwgps-widget" href="https://ridewithgps.com/users/45898" data-rwgps-width="500" data-rwgps-user-id="45898" data-rwgps-activities-count="30">Activities for Tomas Quinones</a>
 <script>
 (function(d,s) { 
   if(!d.getElementById('rwgps-sdk')) {
